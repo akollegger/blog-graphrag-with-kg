@@ -24,4 +24,4 @@ if (DEBUG) {
   console.log(matterWithContent)
 }
 
-writeFileSync('src/blog.json', JSON.stringify(matterWithContent, null, 2), 'utf8')
+writeFileSync('data/blog.json', JSON.stringify(matterWithContent, null, 2), 'utf8')
