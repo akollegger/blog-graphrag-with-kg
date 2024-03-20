@@ -2,6 +2,7 @@
 title: GraphRAG with a Knowledge Graph
 author: Andreas Kollegger
 date: 2024-03-20
+address: 110 Hobson Ave, Cambridge UK
 ---
 
 # GraphRAG with a Knowledge Graph

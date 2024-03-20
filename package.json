@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "convert": ""
+    "convert": "node convert.js"
   },
   "keywords": [],
   "author": "Andreas Kollegger",
